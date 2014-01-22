@@ -1,5 +1,5 @@
 /vendor/
-!/vendor/trijin/torrentEdit/*
+!/vendor/trijin/*
 /logs/*
 !/logs/README.md
 /templates/cache/*
