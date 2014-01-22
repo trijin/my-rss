@@ -1,4 +1,5 @@
 /vendor/
+!/vendor/trijin/*
 /logs/*
 /templates/cache/*
 .DS_STORE
