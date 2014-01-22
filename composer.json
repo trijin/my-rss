@@ -1,0 +1,21 @@
+{
+    "name": "trijin/my-rss",
+    "description": "servise for parse and filter RSS torrents feeds in one. (used with torrent client )",
+    "license": "open",
+    "authors": [
+        {
+            "name": "trijin",
+            "email": "trijin@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "monolog/monolog": "1.*",
+        "slim/slim": "2.*",
+        "slim/views": "0.*",
+        "twig/twig": "1.*",
+		"rmccue/requests": ">=1.0",
+		"phpmailer/phpmailer": "dev-master",
+		"vrana/notorm": "dev-master"
+    }
+}
